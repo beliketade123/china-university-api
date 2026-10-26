@@ -1,0 +1,583 @@
+slug,name,name_zh,city,province,country,category,uni_type,languages_of_instruction,national_rank,score,tags,slug_aliases
+tsinghua,Tsinghua University,清华大学,Beijing,Beijing,China,comprehensive,public,Chinese;English,1,1087.1,双一流;985;211,tsinghua-university
+peking,Peking University,北京大学,Beijing,Beijing,China,comprehensive,public,Chinese;English,2,1036.3,双一流;985;211,peking-university
+zju,Zhejiang University,浙江大学,Hangzhou,Zhejiang,China,comprehensive,public,Chinese;English,3,895.6,双一流;985;211,zhejiang;zhejiang-university
+sjtu,Shanghai Jiao Tong University,上海交通大学,Shanghai,Shanghai,China,comprehensive,public,Chinese;English,4,894.2,双一流;985;211,shanghai-jiao-tong-university
+fudan,Fudan University,复旦大学,Shanghai,Shanghai,China,comprehensive,public,Chinese;English,5,792.4,双一流;985;211,fudan-university
+nju,Nanjing University,南京大学,Nanjing,Jiangsu,China,comprehensive,public,Chinese;English,6,708.5,双一流;985;211,nanjing-university
+ustc,University of Science and Technology of China,中国科学技术大学,Hefei,Anhui,China,stem,-,-,7,653.1,双一流;985;211,university-of-science-and-technology-of-china
+whu,Wuhan University,武汉大学,Wuhan,Hubei,China,comprehensive,public,Chinese;English,8,638.7,双一流;985;211,wuhan;wuhan-university
+hust,Huazhong University of Science and Technology,华中科技大学,Wuhan,Hubei,China,comprehensive,-,-,9,638,双一流;985;211,huazhong-university-of-science-and-technology
+xjtu,Xi'an Jiaotong University,西安交通大学,Xi'an,Shaanxi,China,comprehensive,-,-,10,620.8,双一流;985;211,xian-jiaotong-university
+buaa,Beihang University,北京航空航天大学,Beijing,Beijing,China,stem,public,Chinese;English,11,612.8,双一流;985;211,beihang-university
+hit,Harbin Institute of Technology,哈尔滨工业大学,Harbin,Heilongjiang,China,stem,-,-,12,607.7,双一流;985;211,harbin-institute-of-technology
+sysu,Sun Yat-sen University,中山大学,Guangzhou,Guangdong,China,comprehensive,-,-,13,597.6,双一流;985;211,sun-yat-sen-university
+bit,Beijing Institute of Technology,北京理工大学,Beijing,Beijing,China,stem,-,-,14,595.4,双一流;985;211,beijing-institute-of-technology
+seu,Southeast University,东南大学,Nanjing,Jiangsu,China,comprehensive,-,-,15,592.3,双一流;985;211,southeast-university
+scu,Sichuan University,四川大学,Chengdu,Sichuan,China,comprehensive,public,Chinese,16,581.3,双一流;985;211,sichuan-university
+ruc,Renmin University of China,中国人民大学,Beijing,Beijing,China,comprehensive,-,-,17,558.1,双一流;985;211,renmin-university-of-china
+tongji,Tongji University,同济大学,Shanghai,Shanghai,China,comprehensive,-,-,18,556.6,双一流;985;211,tongji-university
+bnu,Beijing Normal University,北京师范大学,Beijing,Beijing,China,normal,-,-,19,553.2,双一流;985;211,beijing-normal-university
+tju,Tianjin University,天津大学,Tianjin,Tianjin,China,stem,public,Chinese;English,20,544.2,双一流;985;211,tianjin-university
+nankai,Nankai University,南开大学,Tianjin,Tianjin,China,comprehensive,-,-,21,528.8,双一流;985;211,nankai-university
+shandong,Shandong University,山东大学,Jinan,Shandong,China,comprehensive,-,-,22,527.1,双一流;985;211,shandong-university
+nwpu,Northwestern Polytechnical University,西北工业大学,Xi'an,Shaanxi,China,stem,-,-,23,519.2,双一流;985;211,northwestern-polytechnical-university
+cau,China Agricultural University,中国农业大学,Beijing,Beijing,China,agriculture,-,-,24,519.1,双一流;985;211,china-agricultural-university
+xmu,Xiamen University,厦门大学,Xiamen,Fujian,China,comprehensive,public,Chinese;English,25,512.5,双一流;985;211,xiamen-university
+jlu,Jilin University,吉林大学,Changchun,Jilin,China,comprehensive,-,-,26,498.2,双一流;985;211,jilin-university
+csu,Central South University,中南大学,Changsha,Hunan,China,comprehensive,-,-,27,497,双一流;985;211,central-south-university
+dlut,Dalian University of Technology,大连理工大学,Dalian,Liaoning,China,stem,-,-,28,495.4,双一流;985;211,dalian-university-of-technology
+ecnu,East China Normal University,华东师范大学,Shanghai,Shanghai,China,normal,-,-,29,469.1,双一流;985;211,east-china-normal-university
+sustech,Southern University of Science and Technology,南方科技大学,Shenzhen,Guangdong,China,comprehensive,-,-,30,466.9,双一流,southern-university-of-science-and-technology
+hnu,Hunan University,湖南大学,Changsha,Hunan,China,comprehensive,public,Chinese,31,464.1,双一流;985;211,hunan-university
+scut,South China University of Technology,华南理工大学,Guangzhou,Guangdong,China,stem,-,-,32,456.4,双一流;985;211,south-china-university-of-technology
+uestc,University of Electronic Science and Technology of China,电子科技大学,Chengdu,Sichuan,China,stem,-,-,33,453.6,双一流;985;211,university-of-electronic-science-and-technology-of-china
+cqu,Chongqing University,重庆大学,Chongqing,Chongqing,China,comprehensive,-,-,34,436,双一流;985;211,chongqing-university
+ustb,University of Science and Technology Beijing,北京科技大学,Beijing,Beijing,China,stem,-,-,35,429.3,双一流;211,university-of-science-and-technology-beijing
+njust,Nanjing University of Science & Technology,南京理工大学,Nanjing,Jiangsu,China,stem,-,-,36,419.3,双一流;211,nanjing-university-of-science-and-technology
+nuaa,Nanjing University of Aeronautics and Astronautics,南京航空航天大学,Nanjing,Jiangsu,China,stem,-,-,37,417.4,双一流;211,nanjing-university-of-aeronautics-and-astronautics
+neu,Northeastern University,东北大学,Shenyang,Liaoning,China,stem,-,-,38,398.7,双一流;985;211,northeastern-university
+xidian,Xidian University,西安电子科技大学,Xi'an,Shaanxi,China,stem,-,-,39,391.5,双一流;211,xidian-university
+lzu,Lanzhou University,兰州大学,Lanzhou,Gansu,China,comprehensive,-,-,40,388.4,双一流;985;211,lanzhou-university
+beijing-jiaotong,Beijing Jiaotong University,北京交通大学,Beijing,Beijing,China,stem,-,-,41,381.1,双一流;211,beijing-jiaotong-university
+ecust,East China University of Science and Technology,华东理工大学,Shanghai,Shanghai,China,stem,-,-,42,380.4,双一流;211,east-china-university-of-science-and-technology
+heu,Harbin Engineering University,哈尔滨工程大学,Harbin,Heilongjiang,China,stem,-,-,43,380.1,双一流;211,harbin-engineering-university
+zhengzhou,Zhengzhou University,郑州大学,Henan,Henan,China,comprehensive,-,-,44,380,双一流;211,zhengzhou-university
+hzau,Huazhong Agricultural University,华中农业大学,Wuhan,Hubei,China,agriculture,-,-,45,375.6,双一流;211,huazhong-agricultural-university
+shanghaitech,ShanghaiTech University,上海科技大学,Shanghai,Shanghai,China,comprehensive,-,-,47,373.4,双一流,shanghaitech-university
+northeast,Northeast Normal University,东北师范大学,Jilin,Jilin,China,normal,-,-,48,372.4,双一流;211,northeast-normal-university
+swjtu,Southwest Jiaotong University,西南交通大学,Chengdu,Sichuan,China,stem,-,-,49,366.3,双一流;211,southwest-jiaotong-university
+beijing,Beijing University of Posts and Telecommunications,北京邮电大学,Beijing,Beijing,China,stem,-,-,50,360.3,双一流;211,beijing-university-of-posts-and-telecommunications
+ocean,Ocean University of China,中国海洋大学,Shandong,Shandong,China,comprehensive,-,-,51,359.2,双一流;985;211,ocean-university-of-china
+jiangnan,Jiangnan University,江南大学,Jiangsu,Jiangsu,China,comprehensive,-,-,52,355.8,双一流;211,jiangnan-university
+ccnu,Central China Normal University,华中师范大学,Wuhan,Hubei,China,normal,-,-,53,355.1,双一流;211,central-china-normal-university
+wuhan-2,Wuhan University of Technology,武汉理工大学,Hubei,Hubei,China,stem,-,-,54,351.9,双一流;211,wuhan-university-of-technology
+nanjing-2,Nanjing Agricultural University,南京农业大学,Jiangsu,Jiangsu,China,agriculture,-,-,55,350.9,双一流;211,nanjing-agricultural-university
+beijing-chemical,Beijing University of Chemical Technology,北京化工大学,Beijing,Beijing,China,stem,-,-,57,345,双一流;211,beijing-university-of-chemical-technology
+nanjing,Nanjing Normal University,南京师范大学,Jiangsu,Jiangsu,China,normal,-,-,58,344.4,双一流;211,nanjing-normal-university
+jinan,Jinan University,暨南大学,Guangdong,Guangdong,China,comprehensive,-,-,59,343.5,双一流;211,jinan-university
+shu,Shanghai University,上海大学,Shanghai,Shanghai,China,comprehensive,-,-,60,343.3,双一流;211,shanghai-university
+southwest,Southwest University,西南大学,Chongqing,Chongqing,China,comprehensive,-,-,61,343,双一流;211,southwest-university
+beijing-2,"China University of Petroleum, Beijing",中国石油大学（北京）,Beijing,Beijing,China,stem,-,-,62,342.7,双一流;211,china-university-of-petroleum-beijing
+hohai,Hohai University,河海大学,Jiangsu,Jiangsu,China,stem,-,-,63,342,双一流;211,hohai-university
+snnu,Shaanxi Normal University,陕西师范大学,Xi'an,Shaanxi,China,normal,-,-,63,342,双一流;211,shaanxi-normal-university
+beijing-3,Beijing University of Technology,北京工业大学,Beijing,Beijing,China,stem,-,-,65,341.5,双一流;211,beijing-university-of-technology
+shenzhen,Shenzhen University,深圳大学,Shenzhen,Guangdong,China,comprehensive,-,-,66,341.4,,shenzhen-university
+mining-xuzhou,China University of Mining and Technology,中国矿业大学,Jiangsu,Jiangsu,China,stem,-,-,67,335.7,双一流;211,china-university-of-mining-and-technology-xuzhou
+zjut,Zhejiang University of Technology,浙江工业大学,Hangzhou,Zhejiang,China,stem,-,-,68,334.4,,zhejiang-university-of-technology
+northwest-f,Northwest A&F University,西北农林科技大学,Shaanxi,Shaanxi,China,agriculture,-,-,69,330.7,双一流;985;211,northwest-a-f-university
+northwest,Northwest University,西北大学,Shaanxi,Shaanxi,China,comprehensive,-,-,70,329.7,双一流;211,northwest-university
+yunnan,Yunnan University,云南大学,Yunnan,Yunnan,China,comprehensive,-,-,71,325.8,双一流;211,yunnan-university
+donghua,Donghua University,东华大学,Shanghai,Shanghai,China,stem,-,-,72,317.4,双一流;211,donghua-university
+nanchang,Nanchang University,南昌大学,Jiangxi,Jiangxi,China,comprehensive,-,-,74,314.5,双一流;211,nanchang-university
+mining-beijing,China University of Mining and Technology-Beijing,中国矿业大学（北京）,Beijing,Beijing,China,stem,-,-,76,313.7,双一流;211,china-university-of-mining-and-technology-beijing
+fuzhou,Fuzhou University,福州大学,Fujian,Fujian,China,stem,-,-,77,310.5,双一流;211,fuzhou-university
+ningbo,Ningbo University,宁波大学,Zhejiang,Zhejiang,China,comprehensive,-,-,78,310.3,双一流,ningbo-university
+scnu,South China Normal University,华南师范大学,Guangzhou,Guangdong,China,normal,-,-,79,306.6,双一流;211,south-china-normal-university
+hefei,Hefei University of Technology,合肥工业大学,Anhui,Anhui,China,stem,-,-,80,304.8,双一流;211,hefei-university-of-technology
+jiangsu,Jiangsu University,江苏大学,Zhenjiang,Jiangsu,China,comprehensive,-,-,81,301.3,,jiangsu-university
+nanjing-4,Nanjing University of Posts and Telecommunications,南京邮电大学,Jiangsu,Jiangsu,China,stem,-,-,82,297.9,双一流,nanjing-university-of-posts-and-telecommunications
+bjfu,Beijing Forestry University,北京林业大学,Beijing,Beijing,China,forestry,-,-,83,294.9,双一流;211,beijing-forestry-university
+electric-power,North China Electric Power University,华北电力大学,Beijing,Beijing,China,stem,-,-,84,293.5,双一流;211,north-china-electric-power-university
+guizhou,Guizhou University,贵州大学,Guizhou,Guizhou,China,comprehensive,-,-,85,291.1,双一流;211,guizhou-university
+guangxi,Guangxi University,广西大学,Guangxi,Guangxi,China,comprehensive,-,-,86,288.9,双一流;211,guangxi-university
+hainan,Hainan University,海南大学,Hainan,Hainan,China,comprehensive,-,-,87,286.9,双一流;211,hainan-university
+nanjing-tech,Nanjing Tech University,南京工业大学,Jiangsu,Jiangsu,China,stem,-,-,88,285.2,-,nanjing-tech-university
+chang,Chang'an University,长安大学,Shaanxi,Shaanxi,China,stem,-,-,89,282.7,-,changan-university
+fujian,Fujian Normal University,福建师范大学,Fujian,Fujian,China,normal,-,-,90,282.5,-,fujian-normal-university
+zhejiang-2,Zhejiang Normal University,浙江师范大学,Zhejiang,Zhejiang,China,normal,-,-,91,282.2,-,zhejiang-normal-university
+hunan,Hunan Normal University,湖南师范大学,Hunan,Hunan,China,normal,-,-,92,280.5,-,hunan-normal-university
+nanjing-forestry,Nanjing Forestry University,南京林业大学,Jiangsu,Jiangsu,China,forestry,-,-,93,280.3,-,nanjing-forestry-university
+yangzhou,Yangzhou University,扬州大学,Jiangsu,Jiangsu,China,comprehensive,-,-,93,280.3,-,yangzhou-university
+henan,Henan University,河南大学,Henan,Henan,China,comprehensive,-,-,95,279.1,-,henan-university
+guangdong,Guangdong University of Technology,广东工业大学,Guangdong,Guangdong,China,stem,-,-,96,276.1,-,guangdong-university-of-technology
+taiyuan,Taiyuan University of Technology,太原理工大学,Shanxi,Shanxi,China,stem,-,-,97,275.7,-,taiyuan-university-of-technology
+nanjing-3,Nanjing University of Information Science & Technology,南京信息工程大学,Jiangsu,Jiangsu,China,stem,-,-,98,275.1,-,nanjing-university-of-information-science-technology
+hangzhou-dianzi,Hangzhou Dianzi University,杭州电子科技大学,Zhejiang,Zhejiang,China,stem,-,-,99,274.6,-,hangzhou-dianzi-university
+capital,Capital Normal University,首都师范大学,Beijing,Beijing,China,normal,-,-,100,273.4,-,capital-normal-university
+anhui,Anhui University,安徽大学,Anhui,Anhui,China,comprehensive,-,-,101,273.3,-,anhui-university
+shanxi,Shanxi University,山西大学,Shanxi,Shanxi,China,comprehensive,-,-,102,272.4,-,shanxi-university
+south-china-agricultural-university,South China Agricultural University,华南农业大学,Guangdong,Guangdong,China,agriculture,-,-,103,270.1,-,south-china-agricultural-university
+shandong-2,Shandong Normal University,山东师范大学,Shandong,Shandong,China,normal,-,-,104,268.6,-,shandong-normal-university
+guangzhou,Guangzhou University,广州大学,Guangdong,Guangdong,China,comprehensive,-,-,105,267.8,-,guangzhou-university
+shanghai,University of Shanghai for Science and Technology,上海理工大学,Shanghai,Shanghai,China,stem,-,-,106,266.9,-,university-of-shanghai-for-science-and-technology
+hebei,Hebei University of Technology,河北工业大学,Tianjin,Hebei,China,stem,-,-,107,266.5,-,hebei-university-of-technology
+qingdao,Qingdao University,青岛大学,Shandong,Shandong,China,comprehensive,-,-,108,263.1,-,qingdao-university
+yanshan,Yanshan University,燕山大学,Hebei,Hebei,China,stem,-,-,109,261.9,-,yanshan-university
+kunming,Kunming University of Science and Technology,昆明理工大学,Yunnan,Yunnan,China,stem,-,-,110,260.8,-,kunming-university-of-science-and-technology
+xi,Xi'an University of Technology,西安理工大学,Shaanxi,Shaanxi,China,stem,-,-,111,259.8,-,xian-university-of-technology
+zhejiang-sci-tech,Zhejiang Sci-Tech University,浙江理工大学,Zhejiang,Zhejiang,China,stem,-,-,112,259.2,-,zhejiang-sci-tech-university
+dalian-maritime,Dalian Maritime University,大连海事大学,Liaoning,Liaoning,China,comprehensive,-,-,113,257.2,-,dalian-maritime-university
+inner-mongolia,Inner Mongolia University,内蒙古大学,Inner Mongolia,Inner Mongolia,China,comprehensive,-,-,114,256.8,-,inner-mongolia-university
+northeast-forestry,Northeast Forestry University,东北林业大学,Heilongjiang,Heilongjiang,China,forestry,-,-,115,255.4,-,northeast-forestry-university-china
+hangzhou,Hangzhou Normal University,杭州师范大学,Zhejiang,Zhejiang,China,normal,-,-,116,254,-,hangzhou-normal-university
+xiangtan,Xiangtan University,湘潭大学,Hunan,Hunan,China,comprehensive,-,-,117,253.7,-,xiangtan-university
+xi-architecture,Xi'an University of Architecture and Technology,西安建筑科技大学,Shaanxi,Shaanxi,China,stem,-,-,118,251.7,-,xian-university-of-architecture-and-technology
+southwest-2,Southwest Petroleum University,西南石油大学,Sichuan,Sichuan,China,stem,-,-,119,248.3,-,southwest-petroleum-university
+northeast-2,Northeast Agricultural University,东北农业大学,Heilongjiang,Heilongjiang,China,agriculture,-,-,120,245.7,-,northeast-agricultural-university-china
+hubei,Hubei University,湖北大学,Hubei,Hubei,China,comprehensive,-,-,121,243.9,-,hubei-university
+fafu,Fujian Agriculture and Forestry University,福建农林大学,Fuzhou,Fujian,China,agriculture,-,-,122,243.4,-,fujian-agriculture-and-forestry-university
+shanghai-2,Shanghai Normal University,上海师范大学,Shanghai,Shanghai,China,normal,-,-,123,238.4,-,shanghai-normal-university
+wuhan-3,Wuhan University of Science and Technology,武汉科技大学,Hubei,Hubei,China,stem,-,-,123,238.4,-,wuhan-university-of-science-and-technology
+liaoning,Liaoning University,辽宁大学,Liaoning,Liaoning,China,comprehensive,-,-,125,238.1,-,liaoning-university
+jiangxi,Jiangxi Normal University,江西师范大学,Jiangxi,Jiangxi,China,normal,-,-,126,238,-,jiangxi-normal-university
+chengdu,Chengdu University of Technology,成都理工大学,Sichuan,Sichuan,China,stem,-,-,127,237.7,-,chengdu-university-of-technology
+shandong-4,Shandong Agricultural University,山东农业大学,Shandong,Shandong,China,agriculture,-,-,128,234.7,-,shandong-agricultural-university
+wenzhou,Wenzhou University,温州大学,Zhejiang,Zhejiang,China,comprehensive,-,-,129,234.5,-,wenzhou-university
+hebei-2,Hebei University,河北大学,Hebei,Hebei,China,comprehensive,-,-,130,233.9,-,hebei-university
+xinjiang,Xinjiang University,新疆大学,Xinjiang,Xinjiang,China,comprehensive,-,-,131,233.6,-,xinjiang-university
+shaanxi,Shaanxi University of Science & Technology,陕西科技大学,Shaanxi,Shaanxi,China,stem,-,-,132,232.4,-,shaanxi-university-of-science-and-technology
+tiangong,Tiangong University,天津工业大学,Tianjin,Tianjin,China,stem,-,-,133,231.9,-,tiangong-university
+sichuan,Sichuan Agricultural University,四川农业大学,Sichuan,Sichuan,China,agriculture,-,-,134,231.7,-,sichuan-agricultural-university
+changsha,Changsha University of Science & Technology,长沙理工大学,Hunan,Hunan,China,stem,-,-,135,231.6,-,changsha-university-of-science-and-technology
+shihezi,Shihezi University,石河子大学,Xinjiang,Xinjiang,China,comprehensive,-,-,135,231.6,-,shihezi-university
+ningxia,Ningxia University,宁夏大学,Ningxia,Ningxia,China,comprehensive,-,-,137,230.9,-,ningxia-university
+changchun,Changchun University of Science and Technology,长春理工大学,Jilin,Jilin,China,stem,-,-,138,230.6,-,changchun-university-of-science-and-technology
+huaqiao,Huaqiao University,华侨大学,Fujian,Fujian,China,comprehensive,-,-,139,229.8,-,huaqiao-university
+shandong-3,Shandong University of Science and Technology,山东科技大学,Shandong,Shandong,China,stem,-,-,140,226.4,-,shandong-university-of-science-and-technology
+jiangsu-3,Jiangsu University of Science and Technology,江苏科技大学,Jiangsu,Jiangsu,China,stem,-,-,141,224.9,-,jiangsu-university-of-science-and-technology
+shanghai-ocean,Shanghai Ocean University,上海海洋大学,Shanghai,Shanghai,China,agriculture,-,-,142,222.5,-,shanghai-ocean-university
+anhui-3,Anhui Agricultural University,安徽农业大学,Anhui,Anhui,China,agriculture,-,-,143,222,-,anhui-agricultural-university
+nuc,North University of China,中北大学,Taiyuan,Shanxi,China,stem,-,-,144,221.5,-,north-university-of-china
+anhui-2,Anhui Normal University,安徽师范大学,Anhui,Anhui,China,normal,-,-,145,220.6,-,anhui-normal-university
+henan-3,Henan Agricultural University,河南农业大学,Henan,Henan,China,agriculture,-,-,145,220.6,-,henan-agricultural-university
+chongqing,Chongqing University of Posts and Telecommunications,重庆邮电大学,Chongqing,Chongqing,China,stem,-,-,147,219.3,-,chongqing-university-of-posts-and-telecommunications
+nantong,Nantong University,南通大学,Jiangsu,Jiangsu,China,comprehensive,-,-,147,219.3,-,nantong-university
+guangxi-2,Guangxi Normal University,广西师范大学,Guangxi,Guangxi,China,normal,-,-,149,217.8,-,guangxi-normal-university
+zhejiang-f,Zhejiang A&F University,浙江农林大学,Zhejiang,Zhejiang,China,forestry,-,-,149,217.8,-,zhejiang-a-f-university
+jiliang,China Jiliang University,中国计量大学,Zhejiang,Zhejiang,China,stem,-,-,151,217.4,-,china-jiliang-university
+qilu,Qilu University of Technology,齐鲁工业大学,Shandong,Shandong,China,stem,-,-,151,217.4,-,qilu-university-of-technology
+shenyang,Shenyang Agricultural University,沈阳农业大学,Liaoning,Liaoning,China,agriculture,-,-,153,216.5,-,shenyang-agricultural-university
+northwest-2,Northwest Normal University,西北师范大学,Gansu,Gansu,China,normal,-,-,154,216,-,northwest-normal-university-china
+heilongjiang,Heilongjiang University,黑龙江大学,Heilongjiang,Heilongjiang,China,comprehensive,-,-,155,215.1,-,heilongjiang-university
+jimei,Jimei University,集美大学,Fujian,Fujian,China,comprehensive,-,-,156,215,-,jimei-university
+yanbian,Yanbian University,延边大学,Jilin,Jilin,China,comprehensive,-,-,157,214.9,-,yanbian-university
+tianjin-3,Tianjin University of Science and Technology,天津科技大学,Tianjin,Tianjin,China,stem,-,-,158,214.8,-,tianjin-university-of-science-and-technology
+wuhan-textile,Wuhan Textile University,武汉纺织大学,Hubei,Hubei,China,stem,-,-,159,214,-,wuhan-textile-university
+tianjin,Tianjin Normal University,天津师范大学,Tianjin,Tianjin,China,normal,-,-,160,213.5,-,tianjin-normal-university
+jilin,Jilin Agricultural University,吉林农业大学,Jilin,Jilin,China,agriculture,-,-,161,212.7,-,jilin-agricultural-university
+hubei-2,Hubei University of Technology,湖北工业大学,Hubei,Hubei,China,stem,-,-,162,211.2,-,hubei-university-of-technology
+liaoning-2,Liaoning Normal University,辽宁师范大学,Liaoning,Liaoning,China,normal,-,-,162,211.2,-,liaoning-normal-university
+qufu,Qufu Normal University,曲阜师范大学,Shandong,Shandong,China,normal,-,-,164,210.7,-,qufu-normal-university
+changzhou,Changzhou University,常州大学,Jiangsu,Jiangsu,China,stem,-,-,165,210.1,-,changzhou-university
+hunan-2,Hunan Agricultural University,湖南农业大学,Hunan,Hunan,China,agriculture,-,-,166,209.9,-,hunan-agricultural-university
+qingdao-2,Qingdao University of Science & Technology,青岛科技大学,Shandong,Shandong,China,stem,-,-,167,209.6,-,qingdao-university-of-science-and-technology
+henan-2,Henan Normal University,河南师范大学,Henan,Henan,China,normal,-,-,168,209.2,-,henan-normal-university
+wuhan-4,Wuhan Institute of Technology,武汉工程大学,Hubei,Hubei,China,stem,-,-,169,209,-,wuhan-institute-of-technology
+tianjin-2,Tianjin University of Technology,天津理工大学,Tianjin,Tianjin,China,stem,-,-,170,208.6,-,tianjin-university-of-technology
+shanghai-maritime,Shanghai Maritime University,上海海事大学,Shanghai,Shanghai,China,comprehensive,-,-,171,207.5,-,shanghai-maritime-university
+jiangsu-2,Jiangsu Normal University,江苏师范大学,Jiangsu,Jiangsu,China,normal,-,-,172,207.4,-,jiangsu-normal-university
+shantou,Shantou University,汕头大学,Guangdong,Guangdong,China,comprehensive,-,-,173,206.9,-,shantou-university
+three-gorges,China Three Gorges University,三峡大学,Hubei,Hubei,China,comprehensive,-,-,174,205.6,-,china-three-gorges-university
+jinan-2,University of Jinan,济南大学,Shandong,Shandong,China,comprehensive,-,-,175,205,-,university-of-jinan
+henan-5,Henan University of Science and Technology,河南科技大学,Henan,Henan,China,comprehensive,-,-,176,204.4,-,henan-university-of-science-and-technology
+hebei-3,Hebei Normal University,河北师范大学,Hebei,Hebei,China,normal,-,-,177,204.3,-,hebei-normal-university
+beijing-architecture,Beijing University of Civil Engineering and Architecture,北京建筑大学,Beijing,Beijing,China,stem,-,-,178,204.1,-,beijing-university-of-civil-engineering-and-architecture
+shenyang-aerospace,Shenyang Aerospace University,沈阳航空航天大学,Liaoning,Liaoning,China,stem,-,-,179,202.7,-,shenyang-aerospace-university
+anhui-5,Anhui University of Science & Technology,安徽理工大学,Anhui,Anhui,China,stem,-,-,180,201.7,-,anhui-university-of-science-and-technology
+nanchang-hangkong,Nanchang Hangkong University,南昌航空大学,Jiangxi,Jiangxi,China,stem,-,-,181,200.5,-,nanchang-hangkong-university
+beijing-4,Beijing Information Science & Technology University,北京信息科技大学,Beijing,Beijing,China,stem,-,-,182,199.9,-,beijing-information-science-technology-university
+guilin,Guilin University of Electronic Technology,桂林电子科技大学,Guangxi,Guangxi,China,stem,-,-,183,199.8,-,guilin-university-of-electronic-technology
+yangtze,Yangtze University,长江大学,Hubei,Hubei,China,comprehensive,-,-,184,199.4,-,yangtze-university
+relations,University of International Relations,国际关系学院,Beijing,Beijing,China,comprehensive,-,-,185,198.9,-,university-of-international-relations
+xi-2,Xi'an University of Science and Technology,西安科技大学,Shaanxi,Shaanxi,China,stem,-,-,186,197.6,-,xian-university-of-science-and-technology
+qingdao-4,Qingdao University of Technology,青岛理工大学,Shandong,Shandong,China,stem,-,-,187,197.4,-,qingdao-university-of-technology
+shanghai-electric-power,Shanghai University of Electric Power,上海电力大学,Shanghai,Shanghai,China,stem,-,-,188,196.4,-,shanghai-university-of-electric-power
+hebei-4,Hebei Agricultural University,河北农业大学,Hebei,Hebei,China,agriculture,-,-,189,196.3,-,hebei-agricultural-university
+hunan-3,Hunan University of Science and Technology,湖南科技大学,Hunan,Hunan,China,comprehensive,-,-,189,196.3,-,hunan-university-of-science-and-technology
+chongqing-jiaotong,Chongqing Jiaotong University,重庆交通大学,Chongqing,Chongqing,China,stem,-,-,191,195.8,-,chongqing-jiaotong-university
+lanzhou-jiaotong,Lanzhou Jiaotong University,兰州交通大学,Gansu,Gansu,China,stem,-,-,192,195.6,-,lanzhou-jiaotong-university
+anhui-4,Anhui University of Technology,安徽工业大学,Anhui,Anhui,China,stem,-,-,193,195.4,-,anhui-university-of-technology
+jiaotong,East China Jiaotong University,华东交通大学,Jiangxi,Jiangxi,China,stem,-,-,194,195.2,-,east-china-jiaotong-university
+henan-4,Henan Polytechnic University,河南理工大学,Henan,Henan,China,stem,-,-,194,195.2,-,henan-polytechnic-university
+xi-3,Xi'an University of Posts and Telecommunications,西安邮电大学,Shaanxi,Shaanxi,China,stem,-,-,196,195,-,xian-university-of-posts-and-telecommunications
+shandong-5,Shandong University of Technology,山东理工大学,Shandong,Shandong,China,stem,-,-,197,194.9,-,shandong-university-of-technology
+shenyang-3,Shenyang University of Technology,沈阳工业大学,Liaoning,Liaoning,China,stem,-,-,198,194.4,-,shenyang-university-of-technology
+usc,University of South China,南华大学,Hengyang,Hunan,China,comprehensive,-,-,198,194.4,-,university-of-south-china
+yunnan-2,Yunnan Normal University,云南师范大学,Yunnan,Yunnan,China,normal,-,-,198,194.4,-,yunnan-normal-university
+tibet,Tibet University,西藏大学,Tibet,Tibet,China,comprehensive,-,-,201,194.3,-,tibet-university
+jiangxi-2,Jiangxi University of Science and Technology,江西理工大学,Jiangxi,Jiangxi,China,stem,-,-,202,193.8,-,jiangxi-university-of-science-and-technology
+qinghai,Qinghai University,青海大学,Qinghai,Qinghai,China,comprehensive,-,-,203,193.6,-,qinghai-university
+lanzhou,Lanzhou University of Technology,兰州理工大学,Gansu,Gansu,China,stem,-,-,204,193,-,lanzhou-university-of-technology
+southwest-3,Southwest University of Science and Technology,西南科技大学,Sichuan,Sichuan,China,stem,-,-,205,192.4,-,southwest-university-of-science-and-technology
+xi-technological,Xi'an Technological University,西安工业大学,Shaanxi,Shaanxi,China,stem,-,-,206,191.7,-,xian-technological-university
+jiangxi-3,Jiangxi Agricultural University,江西农业大学,Jiangxi,Jiangxi,China,agriculture,-,-,207,190.8,-,jiangxi-agricultural-university
+northeast-electric-power,Northeast Electric Power University,东北电力大学,Jilin,Jilin,China,stem,-,-,208,189.8,-,northeast-electric-power-university
+sichuan-2,Sichuan Normal University,四川师范大学,Sichuan,Sichuan,China,normal,-,-,209,188.9,-,sichuan-normal-university
+henan-6,Henan University of Technology,河南工业大学,Henan,Henan,China,stem,-,-,210,187.4,-,henan-university-of-technology
+dalian,Dalian Polytechnic University,大连工业大学,Liaoning,Liaoning,China,stem,-,-,211,187,-,dalian-polytechnic-university
+inner-mongolia-2,Inner Mongolia Agricultural University,内蒙古农业大学,Inner Mongolia,Inner Mongolia,China,agriculture,-,-,212,185.9,-,inner-mongolia-agricultural-university
+northeast-3,Northeast Petroleum University,东北石油大学,Heilongjiang,Heilongjiang,China,stem,-,-,213,185.3,-,northeast-petroleum-university
+harbin,Harbin University of Science and Technology,哈尔滨理工大学,Heilongjiang,Heilongjiang,China,stem,-,-,214,185,-,harbin-university-of-science-and-technology
+chongqing-2,Chongqing Normal University,重庆师范大学,Chongqing,Chongqing,China,normal,-,-,215,184.6,-,chongqing-normal-university
+jiaxing,Jiaxing University,嘉兴大学,Zhejiang,Zhejiang,China,comprehensive,-,-,216,184.2,-,jiaxing-university
+suzhou,Suzhou University of Science and Technology,苏州科技大学,Jiangsu,Jiangsu,China,stem,-,-,217,183.7,-,suzhou-university-of-science-and-technology
+zhejiang-city,Hangzhou City University,浙大城市学院,Zhejiang,Zhejiang,China,stem,-,-,218,183.6,-,zhejiang-university-city-college
+forestry,Central South University of Forestry & Technology,中南林业科技大学,Hunan,Hunan,China,forestry,-,-,219,183.5,-,central-south-university-of-forestry-technology
+guizhou-2,Guizhou Normal University,贵州师范大学,Guizhou,Guizhou,China,normal,-,-,220,183.1,-,guizhou-normal-university
+inner-mongolia-3,Inner Mongolia Normal University,内蒙古师范大学,Inner Mongolia,Inner Mongolia,China,normal,-,-,220,183.1,-,inner-mongolia-normal-university
+shenyang-jianzhu,Shenyang Jianzhu University,沈阳建筑大学,Liaoning,Liaoning,China,stem,-,-,222,182.9,-,shenyang-jianzhu-university
+harbin-2,Harbin Normal University,哈尔滨师范大学,Heilongjiang,Heilongjiang,China,normal,-,-,223,182.1,-,harbin-normal-university
+yantai,Yantai University,烟台大学,Shandong,Shandong,China,comprehensive,-,-,224,181.5,-,yantai-university
+shanxi-2,Shanxi Agricultural University,山西农业大学,Shanxi,Shanxi,China,agriculture,-,-,225,181.3,-,shanxi-agricultural-university
+aviation,Civil Aviation University of China,中国民航大学,Tianjin,Tianjin,China,stem,-,-,226,180.8,-,civil-aviation-university-of-china
+hainan-2,Hainan Normal University,海南师范大学,Hainan,Hainan,China,normal,-,-,227,180.6,-,hainan-normal-university
+qingdao-3,Qingdao Agricultural University,青岛农业大学,Shandong,Shandong,China,agriculture,-,-,228,180.4,-,qingdao-agricultural-university
+east-china-university-of-technology,East China University of Technology,东华理工大学,Jiangxi,Jiangxi,China,stem,-,-,229,180.1,-,east-china-university-of-technology
+xi-shiyou,Xi'an Shiyou University,西安石油大学,Shaanxi,Shaanxi,China,stem,-,-,230,179.4,-,xian-shiyou-university
+shijiazhuang-tiedao,Shijiazhuang Tiedao University,石家庄铁道大学,Hebei,Hebei,China,stem,-,-,231,179.3,-,shijiazhuang-tiedao-university
+zhejiang-3,Zhejiang University of Science & Technology,浙江科技大学,Zhejiang,Zhejiang,China,stem,-,-,232,178.8,-,zhejiang-university-of-science-and-technology
+beijing-5,Beijing Electronic Science and Technology Institute,北京电子科技学院,Beijing,Beijing,China,stem,-,-,233,178.7,-,beijing-electronic-science-and-technology-institute
+huzhou,Huzhou University,湖州师范学院,Zhejiang,Zhejiang,China,normal,-,-,234,178.3,-,huzhou-university
+gansu,Gansu Agricultural University,甘肃农业大学,Gansu,Gansu,China,agriculture,-,-,235,178.2,-,gansu-agricultural-university
+zhejiang-ocean,Zhejiang Ocean University,浙江海洋大学,Zhejiang,Zhejiang,China,agriculture,-,-,236,178.1,-,zhejiang-ocean-university
+foshan,Foshan University,佛山大学,Guangdong,Guangdong,China,stem,-,-,237,177.9,-,foshan-university
+shanghai-3,Shanghai University of Engineering Science,上海工程技术大学,Shanghai,Shanghai,China,stem,-,-,237,177.9,-,shanghai-university-of-engineering-science
+ncut,North China University of Technology,北方工业大学,Tangshan,Beijing,China,stem,-,-,239,177.4,-,north-china-university-of-technology
+ludong,Ludong University,鲁东大学,Shandong,Shandong,China,comprehensive,-,-,240,176.9,-,ludong-university
+chengdu-3,Chengdu University,成都大学,Sichuan,Sichuan,China,comprehensive,-,-,241,175.9,-,chengdu-university
+shanghai-4,Shanghai Institute of Technology,上海应用技术大学,Shanghai,Shanghai,China,stem,-,-,242,175.4,-,shanghai-institute-of-technology
+chongqing-3,Chongqing University of Technology,重庆理工大学,Chongqing,Chongqing,China,stem,-,-,243,174.3,-,chongqing-university-of-technology
+shenyang-chemical,Shenyang University of Chemical Technology,沈阳化工大学,Liaoning,Liaoning,China,stem,-,-,244,172.6,-,shenyang-university-of-chemical-technology
+changchun-2,Changchun University of Technology,长春工业大学,Jilin,Jilin,China,stem,-,-,245,172.3,-,changchun-university-of-technology
+xiamen,Xiamen University of Technology,厦门理工学院,Fujian,Fujian,China,stem,-,-,246,172.2,-,xiamen-university-of-technology
+dongguan,Dongguan University of Technology,东莞理工学院,Guangdong,Guangdong,China,stem,-,-,247,172,-,dongguan-university-of-technology
+yan,Yan'an University,延安大学,Shaanxi,Shaanxi,China,comprehensive,-,-,248,171.8,-,yanan-university
+dalian-jiaotong,Dalian Jiaotong University,大连交通大学,Liaoning,Liaoning,China,stem,-,-,249,171.7,-,dalian-jiaotong-university
+water-resources-electric-power,North China University of Water Resources and Electric Power,华北水利水电大学,Henan,Henan,China,stem,-,-,249,171.7,-,north-china-university-of-water-resources-and-electric-power
+shandong-jianzhu,Shandong Jianzhu University,山东建筑大学,Shandong,Shandong,China,stem,-,-,251,171.2,-,shandong-jianzhu-university
+gannan,Gannan Normal University,赣南师范大学,Jiangxi,Jiangxi,China,normal,-,-,252,171,-,gannan-normal-university
+xi-4,Xi'an Polytechnic University,西安工程大学,Shaanxi,Shaanxi,China,stem,-,-,253,170.6,-,xian-polytechnic-university
+hebei-5,Hebei University of Science and Technology,河北科技大学,Hebei,Hebei,China,stem,-,-,254,170.4,-,hebei-university-of-science-and-technology
+shenyang-ligong,Shenyang Ligong University,沈阳理工大学,Liaoning,Liaoning,China,stem,-,-,254,170.4,-,shenyang-ligong-university
+qinghai-2,Qinghai Normal University,青海师范大学,Qinghai,Qinghai,China,normal,-,-,256,169.7,-,qinghai-normal-university
+wuhan-5,Wuhan Polytechnic University,武汉轻工大学,Hubei,Hubei,China,stem,-,-,257,169.3,-,wuhan-polytechnic-university
+guilin-2,Guilin University of Technology,桂林理工大学,Guangxi,Guangxi,China,stem,-,-,258,169.2,-,guilin-university-of-technology
+zhengzhou-light-industry,Zhengzhou University of Light Industry,郑州轻工业大学,Henan,Henan,China,stem,-,-,258,169.2,-,zhengzhou-university-of-light-industry
+chengdu-2,Chengdu University of Information Technology,成都信息工程大学,Sichuan,Sichuan,China,stem,-,-,260,169,-,chengdu-university-of-information-technology
+inner-mongolia-4,Inner Mongolia University of Technology,内蒙古工业大学,Inner Mongolia,Inner Mongolia,China,stem,-,-,261,168.9,-,inner-mongolia-university-of-technology
+xihua,Xihua University,西华大学,Sichuan,Sichuan,China,comprehensive,-,-,262,168,-,xihua-university
+liaoning-shihua,Liaoning Petrochemical University,辽宁石油化工大学,Liaoning,Liaoning,China,stem,-,-,263,167.5,-,liaoning-shihua-university
+shaoxing,Shaoxing University,绍兴文理学院,Zhejiang,Zhejiang,China,normal,-,-,264,167.2,-,shaoxing-university
+jianghan,Jianghan University,江汉大学,Hubei,Hubei,China,comprehensive,-,-,265,167.1,-,jianghan-university
+shenyang-4,Shenyang University,沈阳大学,Liaoning,Liaoning,China,comprehensive,-,-,266,166.8,-,shenyang-university
+shanxi-3,Shanxi Normal University,山西师范大学,Shanxi,Shanxi,China,normal,-,-,267,166.3,-,shanxi-normal-university
+liaocheng,Liaocheng University,聊城大学,Shandong,Shandong,China,comprehensive,-,-,268,164.8,-,liaocheng-university
+ncust,North China University of Science and Technology,华北理工大学,Tangshan,Hebei,China,comprehensive,-,-,269,164.5,-,north-china-university-of-science-and-technology
+taiyuan-2,Taiyuan University of Science and Technology,太原科技大学,Shanxi,Shanxi,China,stem,-,-,270,164.2,-,taiyuan-university-of-science-and-technology
+cwnu,China West Normal University,西华师范大学,Nanchong,Sichuan,China,normal,-,-,271,164.1,-,china-west-normal-university
+liaoning-technical,Liaoning Technical University,辽宁工程技术大学,Liaoning,Liaoning,China,stem,-,-,271,164.1,-,liaoning-technical-university
+nanjing-5,Nanjing Institute of Technology,南京工程学院,Jiangsu,Jiangsu,China,stem,-,-,273,164,-,nanjing-institute-of-technology
+anhui-6,Anhui Polytechnic University,安徽工程大学,Anhui,Anhui,China,stem,-,-,274,162.6,-,anhui-polytechnic-university
+fujian-2,Fujian University of Technology,福建理工大学,Fujian,Fujian,China,stem,-,-,275,162.5,-,fujian-university-of-technology
+shanghai-customs,Shanghai Customs University,上海海关学院,Shanghai,Shanghai,China,comprehensive,-,-,276,162.4,-,shanghai-customs-college
+shenyang-2,Shenyang Normal University,沈阳师范大学,Liaoning,Liaoning,China,normal,-,-,277,162,-,shenyang-normal-university
+taizhou,Taizhou University,台州学院,Zhejiang,Zhejiang,China,comprehensive,-,-,278,161,-,taizhou-university-tzc
+chongqing-4,Chongqing University of Science and Technology,重庆科技大学,Chongqing,Chongqing,China,stem,-,-,279,159.7,-,chongqing-university-of-science-and-technology
+liaoning-3,Liaoning University of Technology,辽宁工业大学,Liaoning,Liaoning,China,stem,-,-,279,159.7,-,liaoning-university-of-technology
+beijing-graphic-communication,Beijing Institute of Graphic Communication,北京印刷学院,Beijing,Beijing,China,stem,-,-,281,159.4,-,beijing-institute-of-graphic-communication
+beijing-agriculture,Beijing University of Agriculture,北京农学院,Beijing,Beijing,China,agriculture,-,-,281,159.4,-,beijing-university-of-agriculture
+anhui-jianzhu,Anhui Jianzhu University,安徽建筑大学,Anhui,Anhui,China,stem,-,-,283,158.8,-,anhui-jianzhu-university
+bohai,Bohai University,渤海大学,Liaoning,Liaoning,China,comprehensive,-,-,285,158.4,-,bohai-university
+dali,Dali University,大理大学,Yunnan,Yunnan,China,comprehensive,-,-,285,158.4,-,dali-university
+dalian-2,Dalian University,大连大学,Liaoning,Liaoning,China,comprehensive,-,-,287,158.2,-,dalian-university
+ningbotech,NingboTech University,浙大宁波理工学院,Zhejiang,Zhejiang,China,stem,-,-,287,158.2,-,ningbotech-university
+changshu,Suzhou University of Technology,苏州工学院,Jiangsu,Jiangsu,China,stem,-,-,287,158.2,-,changshu-institute-of-technology
+yunnan-3,Yunnan Agricultural University,云南农业大学,Yunnan,Yunnan,China,agriculture,-,-,290,156,-,yunnan-agricultural-university
+hebei-6,Hebei University of Engineering,河北工程大学,Hebei,Hebei,China,stem,-,-,291,155.8,-,hebei-university-of-engineering
+ningbo-2,Ningbo University of Technology,宁波工程学院,Zhejiang,Zhejiang,China,stem,-,-,292,155.6,-,ningbo-university-of-technology
+hunan-4,Hunan University of Technology,湖南工业大学,Hunan,Hunan,China,stem,-,-,293,154.8,-,hunan-university-of-technology
+jilin-jianzhu,Jilin Jianzhu University,吉林建筑大学,Jilin,Jilin,China,stem,-,-,294,154.4,-,jilin-jianzhu-university
+guangxi-teachers-education,Nanning Normal University,南宁师范大学,Guangxi,Guangxi,China,normal,-,-,295,153.9,-,guangxi-teachers-education-university
+dalian-ocean,Dalian Ocean University,大连海洋大学,Liaoning,Liaoning,China,agriculture,-,-,296,153.6,-,dalian-ocean-university
+minjiang,Minjiang University,闽江学院,Fujian,Fujian,China,stem,-,-,297,153.1,-,minjiang-university
+guangdong-ocean,Guangdong Ocean University,广东海洋大学,Guangdong,Guangdong,China,agriculture,-,-,298,153,-,guangdong-ocean-university
+linyi,Linyi University,临沂大学,Shandong,Shandong,China,comprehensive,-,-,299,152.8,-,linyi-university
+beijing-petrochemical,Beijing Institute of Petrochemical Technology,北京石油化工学院,Beijing,Beijing,China,stem,-,-,300,152.7,-,beijing-institute-of-petrochemical-technology
+heilongjiang-bayi,Heilongjiang Bayi Agricultural University,黑龙江八一农垦大学,Heilongjiang,Heilongjiang,China,agriculture,-,-,301,152.5,-,heilongjiang-bayi-agricultural-university
+xinjiang-2,Xinjiang Normal University,新疆师范大学,Xinjiang,Xinjiang,China,normal,-,-,302,152.4,-,xinjiang-normal-university
+southwest-forestry,Southwest Forestry University,西南林业大学,Yunnan,Yunnan,China,forestry,-,-,303,152.3,-,southwest-forestry-university
+liaoning-4,University of Science and Technology Liaoning,辽宁科技大学,Liaoning,Liaoning,China,stem,-,-,304,152,-,university-of-science-and-technology-liaoning
+xinjiang-3,Xinjiang Agricultural University,新疆农业大学,Xinjiang,Xinjiang,China,agriculture,-,-,305,151.7,-,xinjiang-agricultural-university
+beijing-union,Beijing Union University,北京联合大学,Beijing,Beijing,China,comprehensive,-,-,306,151.6,-,beijing-union-university
+chongqing-arts,Chongqing University of Arts and Sciences,重庆文理学院,Chongqing,Chongqing,China,comprehensive,-,-,307,151.4,-,chongqing-university-of-arts-and-science
+beihua,Beihua University,北华大学,Jilin,Jilin,China,comprehensive,-,-,308,150.7,-,beihua-university
+minnan,Minnan Normal University,闽南师范大学,Fujian,Fujian,China,normal,-,-,309,150.1,-,minnan-normal-university
+hunan-5,Hunan Institute of Science and Technology,湖南理工学院,Hunan,Hunan,China,stem,-,-,310,149.8,-,hunan-institute-of-science-and-technology
+wuyi,Wuyi University,五邑大学,Guangdong,Guangdong,China,comprehensive,-,-,311,149.2,-,wuyi-university-wyu
+hubei-3,Hubei Normal University,湖北师范大学,Hubei,Hubei,China,normal,-,-,312,149.1,-,hubei-normal-university
+zhejiang-wanli,Zhejiang Wanli University,浙江万里学院,Zhejiang,Zhejiang,China,stem,-,-,312,149.1,-,zhejiang-wanli-university
+guangdong-2,Guangdong Polytechnic Normal University,广东技术师范大学,Guangdong,Guangdong,China,normal,-,-,314,149,-,guangdong-polytechnic-normal-university
+inner-mongolia-5,Inner Mongolia University of Science & Technology,内蒙古科技大学,Inner Mongolia,Inner Mongolia,China,comprehensive,-,-,314,149,-,inner-mongolia-university-of-science-technology
+hefei-2,Hefei University,合肥大学,Anhui,Anhui,China,stem,-,-,316,147.9,-,hefei-university
+huaiyin-2,Huaiyin Institute of Technology,淮阴工学院,Jiangsu,Jiangsu,China,stem,-,-,317,147.5,-,huaiyin-institute-of-technology
+tianjin-chengjian,Tianjin Chengjian University,天津城建大学,Tianjin,Tianjin,China,stem,-,-,318,147.2,-,tianjin-chengjian-university
+nanjing-binjiang,Wuxi University,无锡学院,Jiangsu,Jiangsu,China,comprehensive,-,-,319,147.1,-,nanjing-university-of-information-science-and-technology-binjiang-college
+zhongyuan,Zhongyuan University of Technology,中原工学院,Henan,Henan,China,stem,-,-,320,146.9,-,zhongyuan-university-of-technology
+jingdezhen-ceramic,Jingdezhen Ceramic University,景德镇陶瓷大学,Jiangxi,Jiangxi,China,stem,-,-,321,146.7,-,jingdezhen-ceramic-institute
+jilin-2,Jilin Normal University,吉林师范大学,Jilin,Jilin,China,normal,-,-,322,146.4,-,jilin-normal-university
+jishou,Jishou University,吉首大学,Hunan,Hunan,China,comprehensive,-,-,323,146.3,-,jishou-university
+jiangxi-4,Jiangxi Science and Technology Normal University,江西科技师范大学,Jiangxi,Jiangxi,China,normal,-,-,324,145.7,-,jiangxi-science-and-technology-normal-university
+huaihai,Jiangsu Ocean University,江苏海洋大学,Jiangsu,Jiangsu,China,stem,-,-,325,145.6,-,huaihai-institute-of-technology
+sichuan-3,Sichuan University of Science and Engineering,四川轻化工大学,Sichuan,Sichuan,China,stem,-,-,326,145.3,-,sichuan-university-of-science-and-engineering
+shanghai-second,Shanghai Polytechnic University,上海第二工业大学,Shanghai,Shanghai,China,stem,-,-,327,145.2,-,shanghai-second-polytechnic-university
+changsha-2,Changsha University,长沙学院,Hunan,Hunan,China,stem,-,-,328,145,-,changsha-university
+guangxi-3,Guangxi University of Science and Technology,广西科技大学,Guangxi,Guangxi,China,stem,-,-,329,144.7,-,guangxi-university-of-science-and-technology
+huaibei,Huaibei Normal University,淮北师范大学,Anhui,Anhui,China,normal,-,-,330,144.6,-,huaibei-normal-university
+huaiyin,Huaiyin Normal University,淮阴师范学院,Jiangsu,Jiangsu,China,normal,-,-,331,144.3,-,huaiyin-normal-university
+shanghai-dianji,Shanghai Dianji University,上海电机学院,Shanghai,Shanghai,China,stem,-,-,332,144,-,shanghai-dianji-university
+nanjing-xiaozhuang,Nanjing XiaoZhuang University,南京晓庄学院,Jiangsu,Jiangsu,China,normal,-,-,333,143.6,-,nanjing-xiaozhuang-university
+yancheng,Yancheng Institute of Technology,盐城工学院,Jiangsu,Jiangsu,China,stem,-,-,334,143.5,-,yancheng-institute-of-technology
+guizhou-3,Guizhou Education University,贵州师范学院,Guizhou,Guizhou,China,normal,-,-,335,143,-,guizhou-normal-college
+changzhou-2,Changzhou Institute of Technology,常州工学院,Jiangsu,Jiangsu,China,stem,-,-,336,142,-,changzhou-institute-of-technology
+changchun-3,Changchun Normal University,长春师范大学,Jilin,Jilin,China,normal,-,-,337,141.5,-,changchun-normal-university
+xinyang,Xinyang Normal University,信阳师范大学,Henan,Henan,China,normal,-,-,337,141.5,-,xinyang-normal-university
+yulin,Yulin University,榆林学院,Shaanxi,Shaanxi,China,normal,-,-,339,141.4,-,yulin-university
+anqing,Anqing Normal University,安庆师范大学,Anhui,Anhui,China,normal,-,-,340,141.2,-,anqing-normal-university
+hubei-automotive,Hubei University of Automotive Technology,湖北汽车工业学院,Hubei,Hubei,China,stem,-,-,341,141,-,hubei-university-of-automotive-technology
+shaanxi-2,Shaanxi University of Technology,陕西理工大学,Shaanxi,Shaanxi,China,stem,-,-,342,140.7,-,shaanxi-university-of-technology
+tarim,Tarim University,塔里木大学,Xinjiang,Xinjiang,China,comprehensive,-,-,343,140.5,-,tarim-university
+tianjin-education,TianJin University of Technology and Education,天津职业技术师范大学,Tianjin,Tianjin,China,normal,-,-,343,140.5,-,tianjin-university-of-technology-and-education
+yangtze-2,Yangtze Normal University,长江师范学院,Chongqing,Chongqing,China,normal,-,-,345,140.3,-,yangtze-normal-university
+hunan-first,Hunan First Normal University,湖南第一师范学院,Hunan,Hunan,China,normal,-,-,346,140,-,hunan-first-normal-university
+jiangsu-4,Jiangsu University of Technology,江苏理工学院,Jiangsu,Jiangsu,China,stem,-,-,347,139.9,-,jiangsu-university-of-technology
+nanchang-2,Jiangxi University of Water Resources and Electric Power,江西水利电力大学,Jiangxi,Jiangxi,China,stem,-,-,348,139.7,-,jiangxi-university-of-water-resources-and-electric-power
+changchun-5,Changchun Institute of Technology,长春工程学院,Jilin,Jilin,China,stem,-,-,349,139.6,-,changchun-institute-of-technology
+yancheng-teachers,Yancheng Teachers University,盐城师范学院,Jiangsu,Jiangsu,China,normal,-,-,350,139.4,-,yancheng-teachers-university
+jinggangshan,Jinggangshan University,井冈山大学,Jiangxi,Jiangxi,China,comprehensive,-,-,351,138.9,-,jinggangshan-university
+jinling,Jinling Institute of Technology,金陵科技学院,Jiangsu,Jiangsu,China,stem,-,-,351,138.9,-,jinling-institute-of-technology
+tianjin-4,Tianjin Agricultural University,天津农学院,Tianjin,Tianjin,China,agriculture,-,-,353,138.8,-,tianjin-agricultural-university
+zhongkai-agriculture,Zhongkai University of Agriculture and Engineering,仲恺农业工程学院,Guangdong,Guangdong,China,agriculture,-,-,353,138.8,-,zhongkai-university-of-agriculture-and-engineering
+tongren,Tongren University,铜仁学院,Guizhou,Guizhou,China,comprehensive,-,-,355,138.4,-,tongren-university
+shandong-jiaotong,Shandong Jiaotong University,山东交通学院,Shandong,Shandong,China,stem,-,-,356,137.8,-,shandong-jiaotong-university
+huanggang,Huanggang Normal University,黄冈师范学院,Hubei,Hubei,China,normal,-,-,357,137.7,-,huanggang-normal-university
+quanzhou,Quanzhou Normal University,泉州师范学院,Fujian,Fujian,China,normal,-,-,357,137.7,-,quanzhou-normal-university
+henan-7,Henan Institute of Science and Technology,河南科技学院,Henan,Henan,China,normal,-,-,359,137.2,-,henan-institute-of-science-and-technology
+wenzhou-oujiang,Wenzhou University of Technology,温州理工学院,Zhejiang,Zhejiang,China,stem,-,-,360,136.9,-,wenzhou-university-oujiang-college
+anhui-7,Anhui Science and Technology University,安徽科技学院,Anhui,Anhui,China,normal,-,-,361,136.5,-,anhui-science-and-technology-university
+luoyang,Luoyang Normal University,洛阳师范学院,Henan,Henan,China,normal,-,-,361,136.5,-,luoyang-normal-university
+xuzhou,Xuzhou University of Technology,徐州工程学院,Jiangsu,Jiangsu,China,stem,-,-,363,136.3,-,xuzhou-institute-of-technology
+hubei-education,Hubei University of Education,湖北第二师范学院,Hubei,Hubei,China,normal,-,-,364,136,-,hubei-university-of-education
+aviation-flight,Civil Aviation Flight University of China,中国民用航空飞行学院,Sichuan,Sichuan,China,stem,-,-,365,135.1,-,civil-aviation-flight-university-of-china
+lishui,Lishui University,丽水学院,Zhejiang,Zhejiang,China,normal,-,-,365,135.1,-,lishui-university
+huizhou,Huizhou University,惠州学院,Guangdong,Guangdong,China,comprehensive,-,-,367,134.5,-,huizhou-university
+changchun-4,Changchun University,长春大学,Jilin,Jilin,China,comprehensive,-,-,368,134.3,-,changchun-university
+guiyang,Guiyang University,贵阳学院,Guizhou,Guizhou,China,comprehensive,-,-,369,134,-,guiyang-university
+huzhou-qiuzhen,Huzhou College,湖州学院,Zhejiang,Zhejiang,China,normal,-,-,370,133.8,-,huzhou-university-qiuzhen-college
+shenyang-5,Shenyang Institute of Engineering,沈阳工程学院,Liaoning,Liaoning,China,stem,-,-,371,133,-,shenyang-institute-of-engineering
+hubei-arts,Hubei University of Arts and Science,湖北文理学院,Hubei,Hubei,China,comprehensive,-,-,372,132.8,-,hubei-university-of-arts-and-science
+hubei-4,Hubei University of Science and Technology,湖北科技学院,Hubei,Hubei,China,comprehensive,-,-,372,132.8,-,hubei-university-of-science-and-technology
+qiannan-nationalities,Qiannan Normal University for Nationalities,黔南民族师范学院,Guizhou,Guizhou,China,normal,-,-,372,132.8,-,qiannan-normal-college-for-nationalities
+disaster-prevention,Institute of Disaster Prevention,防灾科技学院,Hebei,Hebei,China,stem,-,-,375,132.7,-,institute-of-disaster-prevention
+guangdong-petrochemical,Guangdong University of Petrochemical Technology,广东石油化工学院,Guangdong,Guangdong,China,comprehensive,-,-,376,132.6,-,guangdong-university-of-petrochemical-technology
+luoyang-2,Luoyang Institute of Science and Technology,洛阳理工学院,Henan,Henan,China,comprehensive,-,-,377,132.3,-,luoyang-institute-of-science-and-technology
+zunyi,Zunyi Normal University,遵义师范学院,Guizhou,Guizhou,China,normal,-,-,378,132.1,-,zunyi-normal-university
+quzhou,Quzhou University,衢州学院,Zhejiang,Zhejiang,China,stem,-,-,379,132,-,quzhou-university
+chongqing-three-gorges,Chongqing Three Gorges University,重庆三峡学院,Chongqing,Chongqing,China,comprehensive,-,-,380,131.9,-,chongqing-three-gorges-university
+qiqihar,Qiqihar University,齐齐哈尔大学,Heilongjiang,Heilongjiang,China,comprehensive,-,-,381,131.6,-,qiqihar-university
+sanming,Sanming University,三明学院,Fujian,Fujian,China,comprehensive,-,-,381,131.6,-,sanming-university
+taiyuan-3,Taiyuan Normal University,太原师范学院,Shanxi,Shanxi,China,normal,-,-,383,131.4,-,taiyuan-normal-university
+fuyang,Fuyang Normal University,阜阳师范大学,Anhui,Anhui,China,normal,-,-,384,131.1,-,fuyang-normal-university
+aerospace,North China Institute of Aerospace Engineering,北华航天工业学院,Hebei,Hebei,China,stem,-,-,385,131,-,north-china-institute-of-aerospace-engineering
+mianyang-teachers,Mianyang Teachers' College,绵阳师范学院,Sichuan,Sichuan,China,normal,-,-,386,130.6,-,mianyang-teachers-college
+jiamusi,Jiamusi University,佳木斯大学,Heilongjiang,Heilongjiang,China,comprehensive,-,-,387,130.4,-,jiamusi-university
+chengdu-4,Chengdu Normal University,成都师范学院,Sichuan,Sichuan,China,normal,-,-,388,130.2,-,chengdu-normal-university
+kunming-2,Kunming University,昆明学院,Yunnan,Yunnan,China,comprehensive,-,-,389,129.8,-,kunming-university
+zhoukou,Zhoukou Normal University,周口师范学院,Henan,Henan,China,normal,-,-,389,129.8,-,zhoukou-normal-university
+lingnan,Lingnan Normal University,岭南师范学院,Guangdong,Guangdong,China,normal,-,-,391,129.7,-,lingnan-normal-university
+putian,Putian University,莆田学院,Fujian,Fujian,China,comprehensive,-,-,391,129.7,-,putian-university
+dezhou,Dezhou University,德州学院,Shandong,Shandong,China,comprehensive,-,-,393,129.5,-,dezhou-university
+heilongjiang-2,Heilongjiang University of Science and Technology,黑龙江科技大学,Heilongjiang,Heilongjiang,China,stem,-,-,394,129.4,-,heilongjiang-university-of-science-and-technology
+panzhihua,Panzhihua University,攀枝花学院,Sichuan,Sichuan,China,comprehensive,-,-,394,129.4,-,panzhihua-university
+binzhou,Shandong University of Aeronautics,山东航空学院,Shandong,Shandong,China,stem,-,-,394,129.4,-,binzhou-university
+zhejiang-water-resources-electric-power,Zhejiang University of Water Resources and Electric Power,浙江水利水电学院,Zhejiang,Zhejiang,China,stem,-,-,394,129.4,-,zhejiang-university-of-water-resources-and-electric-power
+longyan,Longyan University,龙岩学院,Fujian,Fujian,China,comprehensive,-,-,398,129.2,-,longyan-university
+qujing,Qujing Normal University,曲靖师范学院,Yunnan,Yunnan,China,normal,-,-,400,128.5,-,qujing-normal-university
+ncist,North China Institute of Science & Technology,华北科技学院,Langfang,Hebei,China,stem,-,-,401,128.4,-,north-china-institute-of-science-and-technology
+taishan,Taishan University,泰山学院,Shandong,Shandong,China,comprehensive,-,-,402,128.2,-,taishan-university
+weifang,Weifang University,潍坊学院,Shandong,Shandong,China,comprehensive,-,-,403,128.1,-,weifang-university
+hebei-7,Hebei Normal University of Science and Technology,河北科技师范学院,Hebei,Hebei,China,normal,-,-,404,127.7,-,hebei-normal-university-of-science-and-technology
+xiangnan,Xiangnan University,湘南学院,Hunan,Hunan,China,stem,-,-,405,127.6,-,xiangnan-university
+hengyang,Hengyang Normal University,衡阳师范学院,Hunan,Hunan,China,normal,-,-,406,127.3,-,hengyang-normal-university
+hunan-6,Hunan Institute of Engineering,湖南工程学院,Hunan,Hunan,China,stem,-,-,406,127.3,-,hunan-institute-of-engineering
+neijiang,Neijiang Normal University,内江师范学院,Sichuan,Sichuan,China,normal,-,-,408,127.1,-,neijiang-normal-university
+xuchang,Xuchang University,许昌学院,Henan,Henan,China,stem,-,-,409,126.9,-,xuchang-university
+yibin,Yibin University,宜宾学院,Sichuan,Sichuan,China,comprehensive,-,-,409,126.9,-,yibin-university
+guizhou-4,Guizhou Institute of Technology,贵州理工学院,Guizhou,Guizhou,China,stem,-,-,411,126.8,-,guizhou-institute-of-technology
+jilin-chemical,Jilin University of Chemical Technology,吉林化工大学,Jilin,Jilin,China,stem,-,-,412,126.7,-,jilin-university-of-chemical-technology
+ningxia-2,Ningxia Normal University,宁夏师范大学,Ningxia,Ningxia,China,normal,-,-,413,126.4,-,ningxia-normal-university
+hefei-3,Hefei Normal University,合肥师范学院,Anhui,Anhui,China,normal,-,-,414,126.1,-,hefei-normal-university
+hubei-6,Hubei Polytechnic University,湖北理工学院,Hubei,Hubei,China,stem,-,-,414,126.1,-,hubei-polytechnic-university
+jiangsu-second,Jiangsu Second Normal University,江苏第二师范学院,Jiangsu,Jiangsu,China,normal,-,-,414,126.1,-,jiangsu-second-normal-university
+anhui-8,West Anhui University,皖西学院,Anhui,Anhui,China,normal,-,-,417,125.8,-,west-anhui-university
+anyang,Anyang Normal University,安阳师范学院,Henan,Henan,China,normal,-,-,418,125.4,-,anyang-normal-university
+hubei-5,Hubei Engineering University,湖北工程学院,Hubei,Hubei,China,comprehensive,-,-,419,125.3,-,hubei-engineering-university
+nanyang,Nanyang Normal University,南阳师范学院,Henan,Henan,China,normal,-,-,419,125.3,-,nanyang-normal-university
+wenzheng-soochow,Suzhou City University,苏州城市学院,Jiangsu,Jiangsu,China,comprehensive,-,-,419,125.3,-,wenzheng-college-of-soochow-university
+beibu-gulf,Beibu Gulf University,北部湾大学,Guangxi,Guangxi,China,comprehensive,-,-,422,125.1,-,beibu-gulf-university
+xi-5,Xi'an University,西安文理学院,Shaanxi,Shaanxi,China,normal,-,-,422,125.1,-,xian-university
+guangdong-education,Guangdong University of Education,广东第二师范学院,Guangdong,Guangdong,China,normal,-,-,424,124.6,-,guangdong-university-of-education
+shaoguan,Shaoguan University,韶关学院,Guangdong,Guangdong,China,comprehensive,-,-,425,124.5,-,shaoguan-university
+leshan,Leshan Normal University,乐山师范学院,Sichuan,Sichuan,China,normal,-,-,426,124.2,-,leshan-normal-university
+wuyi-2,Wuyi University,武夷学院,Fujian,Fujian,China,comprehensive,-,-,426,124.2,-,wuyi-university-wuyiu
+liupanshui,Liupanshui Normal University,六盘水师范学院,Guizhou,Guizhou,China,normal,-,-,428,124,-,liupanshui-normal-university
+shangqiu,Shangqiu Normal University,商丘师范学院,Henan,Henan,China,normal,-,-,429,123.7,-,shangqiu-normal-university
+shijiazhuang,Shijiazhuang University,石家庄学院,Hebei,Hebei,China,normal,-,-,429,123.7,-,shijiazhuang-university
+yichun,Yichun University,宜春学院,Jiangxi,Jiangxi,China,comprehensive,-,-,431,123.3,-,yichun-university
+zaozhuang,Zaozhuang University,枣庄学院,Shandong,Shandong,China,comprehensive,-,-,432,122.9,-,zaozhuang-university
+chongqing-education,Chongqing University of Education,重庆第二师范学院,Chongqing,Chongqing,China,normal,-,-,433,122.8,-,chongqing-university-of-education
+huanghuai,Huanghuai University,黄淮学院,Henan,Henan,China,normal,-,-,434,122.7,-,huanghuai-university
+chuzhou,Chuzhou University,滁州学院,Anhui,Anhui,China,comprehensive,-,-,435,122.6,-,chuzhou-university
+huaihua,Huaihua University,怀化学院,Hunan,Hunan,China,comprehensive,-,-,436,122.4,-,huaihua-university
+yulin-2,Yulin Normal University,玉林师范学院,Guangxi,Guangxi,China,normal,-,-,436,122.4,-,yulin-normal-university
+shaoyang,Shaoyang University,邵阳学院,Hunan,Hunan,China,stem,-,-,438,122.3,-,shaoyang-university
+tangshan,Tangshan Normal University,唐山师范学院,Hebei,Hebei,China,normal,-,-,438,122.3,-,tangshan-normal-university
+nanchang-3,Nanchang Normal University,南昌师范学院,Jiangxi,Jiangxi,China,normal,-,-,440,122.2,-,nanchang-normal-university
+zhaoqing,Zhaoqing University,肇庆学院,Guangdong,Guangdong,China,comprehensive,-,-,440,122.2,-,zhaoqing-university
+guangzhou-maritime,Guangzhou Maritime University,广州航海学院,Guangdong,Guangdong,China,stem,-,-,442,122,-,guangzhou-maritime-university
+pingdingshan,Pingdingshan University,平顶山学院,Henan,Henan,China,normal,-,-,442,122,-,pingdingshan-university
+henan-8,Henan University Of Engineering,河南工程学院,Henan,Henan,China,stem,-,-,444,121.7,-,henan-university-of-engineering
+xi-aeronautical,Xihang University,西安航空学院,Shaanxi,Shaanxi,China,stem,-,-,444,121.7,-,xian-aeronautical-university
+chengdu-technological,Chengdu Technological University,成都工业学院,Sichuan,Sichuan,China,stem,-,-,446,121.5,-,chengdu-technological-university
+tianshui,Tianshui Normal University,天水师范大学,Gansu,Gansu,China,normal,-,-,446,121.5,-,tianshui-normal-university
+hexi,HeXi University,河西学院,Gansu,Gansu,China,comprehensive,-,-,448,121.3,-,hexi-university
+nanjing-special-education,Nanjing Normal University of Special Education,南京特殊教育师范学院,Jiangsu,Jiangsu,China,normal,-,-,448,121.3,-,nanjing-normal-university-of-special-education
+baoji-arts-sciences,Baoji University of Arts and Sciences,宝鸡文理学院,Shaanxi,Shaanxi,China,normal,-,-,450,121.2,-,baoji-university-of-arts-and-sciences
+nanyang-2,Nanyang Institute Of Technology,南阳理工学院,Henan,Henan,China,stem,-,-,450,121.2,-,nanyang-institute-of-technology
+ningde,Ningde Normal University,宁德师范学院,Fujian,Fujian,China,normal,-,-,450,121.2,-,ningde-normal-university
+xichang,Xichang University,西昌学院,Sichuan,Sichuan,China,comprehensive,-,-,450,121.2,-,xichang-college
+henan-urban-construction,Henan University of Urban Construction,河南城建学院,Henan,Henan,China,stem,-,-,454,120.9,-,henan-university-of-urban-construction
+heilongjiang-3,Heilongjiang Institute of Technology,黑龙江工程学院,Heilongjiang,Heilongjiang,China,stem,-,-,455,120.6,-,heilongjiang-institute-of-technology
+hunan-arts,Hunan University of Arts and Science,湖南文理学院,Hunan,Hunan,China,comprehensive,-,-,455,120.6,-,hunan-university-of-arts-and-science
+shangrao,Shangrao Normal University,上饶师范学院,Jiangxi,Jiangxi,China,normal,-,-,457,120.5,-,shangrao-normal-university
+baotou-teachers,Baotou Teachers' College,内蒙古科技大学包头师范学院,Inner Mongolia,Inner Mongolia,China,comprehensive,-,-,458,120.4,-,baotou-teachers-college
+tonghua,Tonghua Normal University,通化师范学院,Jilin,Jilin,China,normal,-,-,459,120.3,-,tonghua-normal-university
+jining,Jining University,济宁学院,Shandong,Shandong,China,normal,-,-,460,120.2,-,jining-university
+weinan,Weinan Normal University,渭南师范学院,Shaanxi,Shaanxi,China,normal,-,-,460,120.2,-,weinan-normal-university
+hunan-7,Hunan University of Science and Engineering,湖南科技学院,Hunan,Hunan,China,comprehensive,-,-,462,120.1,-,hunan-university-of-science-and-engineering
+hainan-tropical-ocean,Hainan Tropical Ocean University,海南热带海洋学院,Hainan,Hainan,China,comprehensive,-,-,463,119.9,-,hainan-tropical-ocean-university
+hunan-city,Hunan City University,湖南城市学院,Hunan,Hunan,China,comprehensive,-,-,463,119.9,-,hunan-city-university
+qilu-2,Qilu Normal University,齐鲁师范学院,Shandong,Shandong,China,normal,-,-,465,119.8,-,qilu-normal-university
+langfang-teachers,Langfang Normal University,廊坊师范学院,Hebei,Hebei,China,normal,-,-,466,119.4,-,langfang-teachers-university
+yuxi,Yuxi Normal University,玉溪师范学院,Yunnan,Yunnan,China,normal,-,-,467,119.1,-,yuxi-normal-university
+mudanjiang,Mudanjiang Normal University,牡丹江师范学院,Heilongjiang,Heilongjiang,China,normal,-,-,468,119,-,mudanjiang-normal-university
+harbin-3,Harbin University,哈尔滨学院,Heilongjiang,Heilongjiang,China,comprehensive,-,-,469,118.8,-,harbin-university
+shanxi-datong,Shanxi Datong University,山西大同大学,Shanxi,Shanxi,China,comprehensive,-,-,470,118.7,-,shanxi-datong-university
+hunan-8,Hunan Institute of Technology,湖南工学院,Hunan,Hunan,China,stem,-,-,471,118.6,-,hunan-institute-of-technology
+hanshan,Hanshan Normal University,韩山师范学院,Guangdong,Guangdong,China,normal,-,-,472,118.3,-,hanshan-normal-university
+jiujiang,Jiujiang University,九江学院,Jiangxi,Jiangxi,China,comprehensive,-,-,473,118.2,-,jiujiang-university
+taiyuan-4,Taiyuan Institute of Technology,太原工业学院,Shanxi,Shanxi,China,stem,-,-,474,118,-,taiyuan-institute-of-technology
+long-dong,Longdong University,陇东学院,Gansu,Gansu,China,normal,-,-,476,117.6,-,long-dong-university
+fujian-3,Fujian Polytechnic Normal University,福建技术师范学院,Fujian,Fujian,China,normal,-,-,477,117.4,-,fujian-polytechnic-normal-university
+anshan-liaoning,Anshan Normal University,鞍山师范学院,Liaoning,Liaoning,China,normal,-,-,478,117.3,-,anshan-normal-university-liaoning-china
+chaohu,Chaohu University,巢湖学院,Anhui,Anhui,China,normal,-,-,479,117.2,-,chaohu-university
+shandong-youth-political,Shandong Youth University of Political Science,山东青年政治学院,Shandong,Shandong,China,comprehensive,-,-,480,117.1,-,shandong-youth-university-of-political-science
+huangshan,Huangshan University,黄山学院,Anhui,Anhui,China,normal,-,-,481,117,-,huangshan-university
+jilin-3,Jilin Engineering Normal University,吉林工程技术师范学院,Jilin,Jilin,China,normal,-,-,482,116.8,-,jilin-engineering-normal-university
+hebei-nationalities,Hebei Minzu Normal University,河北民族师范学院,Hebei,Hebei,China,normal,-,-,483,116.4,-,hebei-normal-university-for-nationalities
+sichuan-tourism,Sichuan Tourism University,四川旅游学院,Sichuan,Sichuan,China,comprehensive,-,-,483,116.4,-,sichuan-tourism-university
+shandong-women-s,Shandong Women's University,山东女子学院,Shandong,Shandong,China,comprehensive,-,-,485,116.3,-,shandong-womens-university
+shandong-management,Shandong Management University,山东管理学院,Shandong,Shandong,China,comprehensive,-,-,486,116,-,shandong-management-university
+xianyang,Xianyang Normal University,咸阳师范学院,Shaanxi,Shaanxi,China,normal,-,-,486,116,-,xianyang-normal-university
+jilin-4,Jilin Agricultural Science and Technology University,吉林农业科技学院,Jilin,Jilin,China,agriculture,-,-,488,115.9,-,jilin-agricultural-science-and-technology-university
+lanzhou-city,Lanzhou City University,兰州城市学院,Gansu,Gansu,China,comprehensive,-,-,489,115.6,-,lanzhou-city-university
+hunan-humanities,"Hunan University of Humanities, Science and Technology",湖南人文科技学院,Hunan,Hunan,China,normal,-,-,490,115.5,-,hunan-university-of-humanities-science-and-technology
+suzhou-2,Suzhou University,宿州学院,Anhui,Anhui,China,normal,-,-,490,115.5,-,suzhou-university
+anyang-2,Anyang Institute of Technology,安阳工学院,Henan,Henan,China,stem,-,-,492,115.3,-,anyang-institute-of-technology
+kaili,Kaili University,凯里学院,Guizhou,Guizhou,China,comprehensive,-,-,493,115.1,-,kaili-university
+anshun,Anshun University,安顺学院,Guizhou,Guizhou,China,comprehensive,-,-,494,114.9,-,anshun-university
+changzhi,Changzhi University,长治学院,Shanxi,Shanxi,China,normal,-,-,494,114.9,-,changzhi-university
+huainan,Huainan Normal University,淮南师范学院,Anhui,Anhui,China,normal,-,-,496,114.1,-,huainan-normal-university
+hezhou,Hezhou University,贺州学院,Guangxi,Guangxi,China,comprehensive,-,-,497,114,-,hezhou-university
+xinxiang,Xinxiang University,新乡学院,Henan,Henan,China,stem,-,-,498,113.9,-,xinxiang-university
+jiaying,Jiaying University,嘉应学院,Guangdong,Guangdong,China,comprehensive,-,-,499,113.7,-,jiaying-university
+aba-teachers,ABA TEACHERS COLLEGE,阿坝师范学院,Sichuan,Sichuan,China,normal,-,-,500,-,-,aba-teachers-university
+ankang,Ankang University,安康学院,Shaanxi,Shaanxi,China,comprehensive,-,-,500,-,-,ankang-university
+baicheng,Baicheng Normal University,白城师范学院,Jilin,Jilin,China,normal,-,-,500,-,-,baicheng-normal-university
+baise,Baise University,百色学院,Guangxi,Guangxi,China,comprehensive,-,-,500,-,-,baise-university
+baoding,Baoding University,保定学院,Hebei,Hebei,China,normal,-,-,500,-,-,baoding-university
+baoshan,Baoshan University,保山学院,Yunnan,Yunnan,China,normal,-,-,500,-,-,baoshan-university
+bengbu,Bengbu University,蚌埠学院,Anhui,Anhui,China,stem,-,-,500,-,-,bengbu-university
+bozhou,Bozhou University,亳州学院,Anhui,Anhui,China,normal,-,-,500,-,-,bozhou-university
+cangzhou,Cangzhou Normal University,沧州师范学院,Hebei,Hebei,China,normal,-,-,500,-,-,cangzhou-normal-university
+changji,Changji University,昌吉学院,Xinjiang,Xinjiang,China,normal,-,-,500,-,-,changji-university
+changsha-3,Changsha Normal University,长沙师范学院,Hunan,Hunan,China,normal,-,-,500,-,-,changsha-normal-university
+chifeng,Chifeng University,赤峰学院,Inner Mongolia,Inner Mongolia,China,comprehensive,-,-,500,-,-,chifeng-university
+chizhou,Chizhou University,池州学院,Anhui,Anhui,China,normal,-,-,500,-,-,chizhou-university
+chuxiong,Chuxiong Normal University,楚雄师范学院,Yunnan,Yunnan,China,normal,-,-,500,-,-,chuxiong-normal-university
+daqing,Daqing Normal University,大庆师范学院,Heilongjiang,Heilongjiang,China,comprehensive,-,-,500,-,-,daqing-normal-university
+yangtze-river,Gandong University,赣东学院,Jiangxi,Jiangxi,China,stem,-,-,500,-,-,east-china-institute-of-technology-yangtze-river-college
+applied-jiangxi,Gannan University of Science and Technology,赣南科技学院,Jiangxi,Jiangxi,China,stem,-,-,500,-,-,college-of-applied-science-jiangxi-university-of-science-and-technology
+gansu-nationalities,Gansu Minzu Normal University,甘肃民族师范学院,Gansu,Gansu,China,normal,-,-,500,-,-,gansu-normal-university-for-nationalities
+guangxi-nationalities,Guangxi Minzu Normal University,广西民族师范学院,Guangxi,Guangxi,China,normal,-,-,500,-,-,guangxi-normal-university-for-nationalities
+guangxi-4,Guangxi Science & Technology Normal University,广西科技师范学院,Guangxi,Guangxi,China,normal,-,-,500,-,-,guangxi-science-and-technology-normal-university
+guilin-aerospace,Guilin University of Aerospace Technology,桂林航天工业学院,Guangxi,Guangxi,China,stem,-,-,500,-,-,guilin-university-of-aerospace-technology
+guizhou-5,Guizhou University of Engineering Science,贵州工程应用技术学院,Guizhou,Guizhou,China,normal,-,-,500,-,-,guizhou-university-of-engineering-science
+handan,Handan University,邯郸学院,Hebei,Hebei,China,normal,-,-,500,-,-,handan-college
+hanjiang,Hanjiang Normal University,汉江师范学院,Hubei,Hubei,China,normal,-,-,500,-,-,hanjiang-normal-university
+hebei-architecture,Hebei University of Architecture,河北建筑工程学院,Hebei,Hebei,China,stem,-,-,500,-,-,hebei-university-of-architecture
+hebei-environmental,Hebei University of Environmental Engineering,河北环境工程学院,Hebei,Hebei,China,comprehensive,-,-,500,-,-,hebei-university-of-environmental-engineering
+hechi,Hechi University,河池学院,Guangxi,Guangxi,China,comprehensive,-,-,500,-,-,hechi-university
+heihe,Heihe University,黑河学院,Heilongjiang,Heilongjiang,China,comprehensive,-,-,500,-,-,heihe-university
+heilongjiang-4,Heilongjiang University of Technology,黑龙江工业学院,Heilongjiang,Heilongjiang,China,stem,-,-,500,-,-,heilongjiang-university-of-technology
+henan-9,Henan Institute of Technology,河南工学院,Henan,Henan,China,stem,-,-,500,-,-,henan-institute-of-technology
+henan-animal-husbandry-economy,Henan University of Animal Husbandry and Economy,河南牧业经济学院,Henan,Henan,China,agriculture,-,-,500,-,-,henan-university-of-animal-husbandry-and-economy
+hengshui,Hengshui University,衡水学院,Hebei,Hebei,China,normal,-,-,500,-,-,hengshui-university
+hetao,Hetao college,河套学院,Inner Mongolia,Inner Mongolia,China,comprehensive,-,-,500,-,-,hetao-college
+heze,Heze University,菏泽学院,Shandong,Shandong,China,comprehensive,-,-,500,-,-,heze-university
+honghe,Honghe University,红河学院,Yunnan,Yunnan,China,comprehensive,-,-,500,-,-,honghe-university
+hulunbuir,Hulunbuir University,呼伦贝尔学院,Inner Mongolia,Inner Mongolia,China,comprehensive,-,-,500,-,-,hulunbuir-university
+jingchu,Jingchu University of Technology,荆楚理工学院,Hubei,Hubei,China,stem,-,-,500,-,-,jingchu-university-of-technology
+jingdezhen,Jingdezhen University,景德镇学院,Jiangxi,Jiangxi,China,comprehensive,-,-,500,-,-,jingdezhen-university
+jining-2,Jining Normal University,集宁师范学院,Inner Mongolia,Inner Mongolia,China,normal,-,-,500,-,-,jining-normal-university
+jinzhong,Jinzhong University,晋中学院,Shanxi,Shanxi,China,normal,-,-,500,-,-,jinzhong-university
+kashi,Kashi University,喀什大学,Xinjiang,Xinjiang,China,normal,-,-,500,-,-,kashi-university
+lanzhou-2,Lanzhou Institute of Technology,兰州工业学院,Gansu,Gansu,China,stem,-,-,500,-,-,lanzhou-institute-of-technology
+lanzhou-arts,Lanzhou University of Arts and Science,兰州文理学院,Gansu,Gansu,China,comprehensive,-,-,500,-,-,lanzhou-university-of-arts-and-science
+eastern-liaoning,Liaodong University,辽东学院,Liaoning,Liaoning,China,comprehensive,-,-,500,-,-,eastern-liaoning-university
+liaoning-5,Liaoning Institute of Science and Technology,辽宁科技学院,Liaoning,Liaoning,China,stem,-,-,500,-,-,liaoning-institute-of-science-and-technology
+luliang,Lyuliang University,吕梁学院,Shanxi,Shanxi,China,normal,-,-,500,-,-,luliang-university
+xingyi-nationalities,Minzu Normal University of Xingyi,兴义民族师范学院,Guizhou,Guizhou,China,normal,-,-,500,-,-,xingyi-normal-university-for-nationalities
+ordos,Ordos Institute of Technology,鄂尔多斯应用技术学院,Inner Mongolia,Inner Mongolia,China,comprehensive,-,-,500,-,-,ordos-institute-of-technology
+pingxiang,Pingxiang University,萍乡学院,Jiangxi,Jiangxi,China,comprehensive,-,-,500,-,-,pingxiang-university
+puer,Pu'er University,普洱学院,Yunnan,Yunnan,China,normal,-,-,500,-,-,puer-university
+qiongtai,Qiongtai Normal University,琼台师范学院,Hainan,Hainan,China,normal,-,-,500,-,-,qiongtai-normal-university
+shaanxi-xueqian,Shaanxi Xueqian Normal University,陕西学前师范学院,Shaanxi,Shaanxi,China,normal,-,-,500,-,-,shaanxi-xueqian-normal-university
+shandong-agriculture,Shandong Agriculture and Engineering University,山东农业工程学院,Shandong,Shandong,China,comprehensive,-,-,500,-,-,shandong-agriculture-and-engineering-university
+shengli,SHANDONG INSTITUTE OF PETROLEUM AND CHEMICAL TECHNOLOGY,山东石油化工学院,Shandong,Shandong,China,stem,-,-,500,-,-,shengli-college-china-university-of-petroleum
+shangluo,Shangluo University,商洛学院,Shaanxi,Shaanxi,China,comprehensive,-,-,500,-,-,shangluo-university
+shanxi-energy,Shanxi Institute of Energy,山西能源学院,Shanxi,Shanxi,China,comprehensive,-,-,500,-,-,shanxi-institute-of-energy
+shanxi-4,Shanxi Institute of Technology,山西工程技术学院,Shanxi,Shanxi,China,stem,-,-,500,-,-,shanxi-institute-of-technology
+sichuan-nationalities,Sichuan Minzu College,四川民族学院,Sichuan,Sichuan,China,normal,-,-,500,-,-,sichuan-university-for-nationalities
+sichuan-arts,Sichuan University of Arts and Science,四川文理学院,Sichuan,Sichuan,China,comprehensive,-,-,500,-,-,sichuan-university-of-arts-and-science
+suihua,Suihua University,绥化学院,Heilongjiang,Heilongjiang,China,comprehensive,-,-,500,-,-,suihua-university
+taiyuan-5,Taiyuan University,太原学院,Shanxi,Shanxi,China,stem,-,-,500,-,-,taiyuan-university
+taizhou-2,Taizhou University,泰州学院,Jiangsu,Jiangsu,China,normal,-,-,500,-,-,taizhou-university-tzu
+tangshan-2,Tangshan University,唐山学院,Hebei,Hebei,China,stem,-,-,500,-,-,tangshan-college
+wenshan,Wenshan University,文山学院,Yunnan,Yunnan,China,normal,-,-,500,-,-,wenshan-university
+yunnan-4,West Yunnan University,滇西科技师范学院,Yunnan,Yunnan,China,normal,-,-,500,-,-,west-yunnan-university
+wuzhou,Wuzhou University,梧州学院,Guangxi,Guangxi,China,comprehensive,-,-,500,-,-,wuzhou-university
+xingtai,Xingtai University,邢台学院,Hebei,Hebei,China,normal,-,-,500,-,-,xingtai-university
+xinjiang-4,Xinjiang Institute of Engineering,新疆工程学院,Xinjiang,Xinjiang,China,stem,-,-,500,-,-,xinjiang-institute-of-engineering
+xinjiang-5,Xinjiang Institute of Technology,新疆理工学院,Xinjiang,Xinjiang,China,comprehensive,-,-,500,-,-,xinjiang-institute-of-technology
+shihezi-2,Xinjiang University of Political Science And Law,新疆政法学院,Xinjiang,Xinjiang,China,comprehensive,-,-,500,-,-,college-of-science-technology-shihezi-university
+xinyang-agriculture-forestry,Xinyang Agriculture and Forestry University,信阳农林学院,Henan,Henan,China,agriculture,-,-,500,-,-,xinyang-agriculture-and-forestry-university
+xinyu,Xinyu University,新余学院,Jiangxi,Jiangxi,China,comprehensive,-,-,500,-,-,xinyu-university
+xinzhou-teachers,Xinzhou Teachers University,忻州师范学院,Shanxi,Shanxi,China,normal,-,-,500,-,-,xinzhou-teachers-university
+yili,Yili Normal University,伊犁师范大学,Xinjiang,Xinjiang,China,normal,-,-,500,113.3,-,yili-normal-university
+yingkou,YingKou Institute of Technology,营口理工学院,Liaoning,Liaoning,China,stem,-,-,500,,-,yingkou-institute-of-technology
+yuncheng,Yuncheng University,运城学院,Shanxi,Shanxi,China,comprehensive,-,-,500,,-,yuncheng-university
+yuzhang,Yuzhang Normal University,豫章师范学院,Jiangxi,Jiangxi,China,normal,-,-,500,,-,yuzhang-normal-university
+zhangjiakou,Zhangjiakou University,张家口学院,Hebei,Hebei,China,comprehensive,-,-,500,,-,zhangjiakou-university
+zhaotong,Zhaotong University,昭通学院,Yunnan,Yunnan,China,normal,-,-,500,,-,zhaotong-university
+zhengzhou-2,Zhengzhou Normal University,郑州师范学院,Henan,Henan,China,normal,-,-,500,,-,zhengzhou-normal-university
+zhengzhou-3,Zhengzhou University of Technology,郑州工程技术学院,Henan,Henan,China,stem,-,-,500,,-,zhengzhou-institute-of-technology
+geosciences-beijing,China University of Geosciences (Beijing),中国地质大学（北京）,Beijing,-,-,-,-,-,-,-,-,-
+geosciences-wuhan,China University of Geosciences (Wuhan),中国地质大学（武汉）,Hubei,-,-,-,-,-,-,-,-,-
+huadong,China University of Petroleum (Huadong),中国石油大学（华东）,Shandong,-,-,-,-,-,-,-,-,-
+hebei-city,Hebei University of Technology City College,河北石油职业技术大学,Hebei,-,-,-,-,-,-,-,-,-
+inner-mongolia-nationalities,Inner Mongolia University for Nationalities,内蒙古民族大学,Inner Mongolia,-,-,-,-,-,-,-,-,-
+electric-power-2,North China Electric Power University Science and Technology College,河北科技工程职业技术大学,Hebei,-,-,-,-,-,-,-,-,-
+hebei-8,Polytechnic College of Hebei University of Science and Technology,河北工业职业技术大学,Hebei,-,-,-,-,-,-,-,-,-
+soochow,Soochow University (China),苏州大学,Jiangsu,-,-,-,-,-,-,-,-,-
+tibet-agriculture-animal-husbandry,Tibet Agriculture and Animal Husbandry University,西藏农牧学院,Tibet,-,-,-,-,-,-,-,-,-
